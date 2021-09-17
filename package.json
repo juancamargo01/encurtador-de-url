@@ -1,0 +1,35 @@
+{
+  "name": "encurtador-de-url",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juancamargo01/encurtador-de-url.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juancamargo01/encurtador-de-url/issues"
+  },
+  "homepage": "https://github.com/juancamargo01/encurtador-de-url#readme",
+  "dependencies": {
+    "@hasezoey/typegoose": "^5.9.2",
+    "@typescript-eslint/eslint-plugin": "^4.31.1",
+    "@typescript-eslint/parser": "^4.31.1",
+    "cors": "^2.8.5",
+    "eslint": "^7.32.0",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.6",
+    "nodemon": "^2.0.12",
+    "shortid": "^2.2.16",
+    "typescript": "^4.4.3"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13"
+  }
+}
